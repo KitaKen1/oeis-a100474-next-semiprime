@@ -9,3 +9,9 @@ rev = "638da20efd8eeeed2993fc2550fc596dc90c1ce8"
 
 [[lean_lib]]
 name = "OeisA100474NextSemiprimeFC"
+
+[[lean_lib]]
+name = "OeisA100474KernelModular"
+
+[[lean_lib]]
+name = "OeisA100474PrimeCertificate"
