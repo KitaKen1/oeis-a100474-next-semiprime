@@ -1,0 +1,11 @@
+name = "oeis_a100474_next_semiprime_lean4web"
+version = "0.1.0"
+defaultTargets = ["OeisA100474NextSemiprimeLean4Web"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "274ed6d67d9b226c557813b9ce437574cccdce11"
+
+[[lean_lib]]
+name = "OeisA100474NextSemiprimeLean4Web"
